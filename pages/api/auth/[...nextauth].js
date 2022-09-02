@@ -30,16 +30,16 @@ export const authOptions = {
     }),
 
     GithubProvider({
-      clientId: process.env.GITHUB_ID,
-      clientSecret: process.env.GITHUB_SECRET,
+      clientId: process.env.GITHUB_ID,  // VARIABLES DE ENTORNO
+      clientSecret: process.env.GITHUB_SECRET, // VARIABLES DE ENTORNO
     }),
     FacebookProvider({
-      clientId: process.env.FACEBOOK_CLIENT_ID,
-      clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
+      clientId: process.env.FACEBOOK_CLIENT_ID, // VARIABLES DE ENTORNO
+      clientSecret: process.env.FACEBOOK_CLIENT_SECRET, // VARIABLES DE ENTORNO
     }),
     GoogleProvider({
-      clientId: process.env.GOOGLE_CLIENT_ID,
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+      clientId: process.env.GOOGLE_CLIENT_ID, // VARIABLES DE ENTORNO
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET, // VARIABLES DE ENTORNO
     }),
 
   ],
