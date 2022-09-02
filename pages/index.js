@@ -9,8 +9,6 @@ import { unstable_getServerSession } from "next-auth/next"
 
 const Index = ({children}) => {
 
-
-
     return (
       <>
         <TopNav />

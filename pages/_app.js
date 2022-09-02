@@ -1,4 +1,5 @@
 import "styles/styles.css";
+import "bootstrap/dist/css/bootstrap.css"
 import Head from "next/head";
 import { SessionProvider } from "next-auth/react";
 

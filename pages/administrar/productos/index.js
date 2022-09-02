@@ -8,7 +8,7 @@ const index = () => {
     <Index>
       <main>
         <div className="container-fluid px-4">
-          <h1 className="py-5">Productos</h1>
+          <h1 className="py-3">Productos</h1>
           <br/>
           <div className="row">
             <div className="col-xl-3 col-md-6">

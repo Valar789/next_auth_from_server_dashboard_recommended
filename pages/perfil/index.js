@@ -9,7 +9,7 @@ const index = () => {
     <Index >
       <main>
         <div className="container-fluid px-4">
-          <h1 className="py-5">Perfil</h1>
+          <h1 className="py-3">Perfil</h1>
           <br />
           <form className="px-4 d-grid gap-3">
             <div className="row">
