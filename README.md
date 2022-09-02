@@ -4,7 +4,7 @@
 First, run the development server:
 
 ```bash
-NOTA! requiere las variables de entorno en un archivo .env.local y y enlazarlos con los provider ubicados en [...nextauth].js
+NOTA! requiere las variables de entorno en un archivo .env.local y y enlazarlos con los provider ubicados en pages/api/auth/[...nextauth].js
 
 npm run dev
 
